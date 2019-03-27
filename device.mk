@@ -300,6 +300,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     CarrierConfigOverlay \
     FrameworksResChime \
+    NotchBarKillerChime \
     SettingsResChime \
     SystemUIResChime \
     TelephonyResChime \
